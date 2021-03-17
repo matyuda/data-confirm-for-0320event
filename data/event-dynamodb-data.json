@@ -1,0 +1,26 @@
+[
+    {
+        "PutRequest": {
+            "Item": {
+                "event_id": "1",
+                "speaker_name": "クラウドパワポカラオケ選手権"
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "event_id": "2",
+                "speaker_name": "クラウド大運動会、改めピタゴラスイッチ選手権"
+            }
+        }
+    },
+    {
+        "PutRequest": {
+            "Item": {
+                "event_id": "3",
+                "speaker_name": "チーム対抗提案コンペ 〜仮想RFPに提案してみよう！〜 Presented by JAWS-UG Sales"
+            }
+        }
+    }
+]
