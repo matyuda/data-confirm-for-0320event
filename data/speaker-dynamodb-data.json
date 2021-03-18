@@ -3,7 +3,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "11",
-                "speaker_name": "Aさん"
+                "speaker_name": "ニイダ アキフミさん"
             }
         }
     },
@@ -11,7 +11,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "12",
-                "speaker_name": "Bさん"
+                "speaker_name": "スズキ リョウさん"
             }
         }
     },
@@ -19,7 +19,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "13",
-                "speaker_name": "Cさん"
+                "speaker_name": "シモコウベ アキさん"
             }
         }
     },
@@ -27,7 +27,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "14",
-                "speaker_name": "Dさん"
+                "speaker_name": "フジワラ マキさん"
             }
         }
     },
@@ -35,7 +35,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "15",
-                "speaker_name": "Eさん"
+                "speaker_name": "アキさん"
             }
         }
     },
@@ -43,7 +43,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "21",
-                "speaker_name": "Fさん"
+                "speaker_name": "ミウラ コウキさん"
             }
         }
     },
@@ -51,7 +51,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "22",
-                "speaker_name": "Gさん"
+                "speaker_name": "オオハシ マモルさん"
             }
         }
     },
@@ -59,7 +59,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "23",
-                "speaker_name": "Hさん"
+                "speaker_name": "トミヤマ タケヒコさん"
             }
         }
     },
@@ -67,15 +67,7 @@
         "PutRequest": {
             "Item": {
                 "speaker_id": "24",
-                "speaker_name": "Iさん"
-            }
-        }
-    },
-    {
-        "PutRequest": {
-            "Item": {
-                "speaker_id": "25",
-                "speaker_name": "Jさん"
+                "speaker_name": "シモコウベ アキさん"
             }
         }
     },
