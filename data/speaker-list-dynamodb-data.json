@@ -42,16 +42,6 @@
     {
         "PutRequest": {
             "Item": {
-                "event_id": "1",
-                "sort": "15",
-                "speaker_id": "15",
-                "speaker_name": "アキさん"
-            }
-        }
-    },
-    {
-        "PutRequest": {
-            "Item": {
                 "event_id": "2",
                 "sort": "21",
                 "speaker_id": "21",
