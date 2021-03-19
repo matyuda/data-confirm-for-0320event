@@ -34,14 +34,6 @@
     {
         "PutRequest": {
             "Item": {
-                "speaker_id": "15",
-                "speaker_name": "アキさん"
-            }
-        }
-    },
-    {
-        "PutRequest": {
-            "Item": {
                 "speaker_id": "21",
                 "speaker_name": "ミウラ コウキさん"
             }
