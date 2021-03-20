@@ -18,14 +18,6 @@
     {
         "PutRequest": {
             "Item": {
-                "speaker_id": "13",
-                "speaker_name": "シモコウベ アキさん"
-            }
-        }
-    },
-    {
-        "PutRequest": {
-            "Item": {
                 "speaker_id": "14",
                 "speaker_name": "フジワラ マキさん"
             }
